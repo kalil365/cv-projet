@@ -1,0 +1,75 @@
+table, th, td {
+    border: 3px solid rgb(74, 76, 238);
+    border-radius: 10px;
+     width: 50%;
+     padding: 12px 20px;
+     margin: 8px 0;
+     box-sizing: border-box;
+     font-family: Arial;
+    
+      
+  }
+  nav li {
+     display: inline;
+     font-size: larger;
+      }
+     
+  .para1 {
+ font-family: robot ;
+  }
+
+  img{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 600px;
+
+  }
+  h1 {
+    font-family: Arial;
+    color: #214dc5;
+
+}
+input[type=text] {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 15px 0;
+    box-sizing: border-box;
+  }
+  input[type=email] {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 15px 0;
+    box-sizing: border-box;
+  }
+  input[type=button], input[type=submit], input[type=reset] {
+    background-color: #214dc5;
+    border-radius: 14px;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 25%;
+  }
+  footer ,form{ 
+    font-family: Arial;
+  }
+  a {
+    color: black;
+  text-align: center;
+  padding: 15px;
+  
+  }
+  a:local-link {
+    color: tomato;
+}
+a:visited {
+    color: rgb(47, 0, 255);
+}
+a:hover {
+   color: rgb(117, 115, 212);
+} 
+a:active{
+    color: #ff0000
+}
